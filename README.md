@@ -87,7 +87,7 @@ The dashboard includes the following visualizations:
 
 ## Average Price Per Bedroom
 
-![Average Price Per Bedroom] <img width="677" height="762" alt="image" src="https://github.com/user-attachments/assets/0da978a3-e3ee-49d3-a3bf-13f17a5d603c" />
+<img width="677" height="762" alt="image" src="https://github.com/user-attachments/assets/0da978a3-e3ee-49d3-a3bf-13f17a5d603c" />
 
 
 This visualization shows how average Airbnb prices increase based on the number of bedrooms available in a property.
@@ -101,7 +101,7 @@ Key observations:
 
 ## Distinct Account of Bedroom Listings
 
-![Bedroom Listings](images/bedroom-listings.png)
+![Bedroom Listings]
 
 This table highlights the distribution of Airbnb listings by bedroom count.
 
