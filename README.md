@@ -9,7 +9,7 @@ Interactive Tableau dashboard analyzing Airbnb pricing trends, revenue patterns,
 ## Interactive Dashboard
 View the full interactive Tableau dashboard here:
 
-[Linkhttps://public.tableau.com/views/AirbnbCompleteProject_17782977801540/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+https://public.tableau.com/views/AirbnbCompleteProject_17782977801540/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -101,7 +101,8 @@ Key observations:
 
 ## Distinct Account of Bedroom Listings
 
-![Bedroom Listings]
+<img width="436" height="252" alt="image" src="https://github.com/user-attachments/assets/0068c45c-96cf-4a50-bd5d-6a4283f7ca8c" />
+
 
 This table highlights the distribution of Airbnb listings by bedroom count.
 
@@ -113,7 +114,8 @@ Key observations:
 
 ## Price by Zipcode
 
-![Price by Zipcode](images/price-by-zipcode.png)
+<img width="1362" height="757" alt="image" src="https://github.com/user-attachments/assets/c8796471-97f6-4021-8ff6-ea33e7fe66c2" />
+
 
 This visualization compares average Airbnb prices across multiple zipcodes.
 
@@ -125,7 +127,8 @@ Key observations:
 
 ## Geographic Price Distribution
 
-![Geographic Price Distribution](images/geographic-price-map.png)
+<img width="1127" height="751" alt="image" src="https://github.com/user-attachments/assets/40ab7f7c-f2a3-43cd-afb9-a7f34907d89a" />
+
 
 The geographic map visualization displays Airbnb pricing patterns across different locations.
 
@@ -137,7 +140,8 @@ Key observations:
 
 ## Revenue Trends Throughout the Year
 
-![Revenue Trends](images/revenue-year.png)
+<img width="1440" height="766" alt="image" src="https://github.com/user-attachments/assets/541b0819-1acf-403f-b4c7-26c3ec5b7e80" />
+
 
 This time-series visualization tracks Airbnb revenue patterns throughout the year.
 
@@ -154,7 +158,6 @@ Key observations:
 - Data Visualization
 - Business Intelligence
 - Dashboard Design
-- Microsoft Excel
 
 ---
 
